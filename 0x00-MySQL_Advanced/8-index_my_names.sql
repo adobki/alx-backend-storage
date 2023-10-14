@@ -1,2 +1,4 @@
--- Ranks country origins of bands,
--- ordered by the number of (non-unique) fans
+-- Creates an index `idx_name_first` on the table
+-- `names` for the first letter of `name`
+CREATE INDEX idx_name_first
+ON names (name(1));

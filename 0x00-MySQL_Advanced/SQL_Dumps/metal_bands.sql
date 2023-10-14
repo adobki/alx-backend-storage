@@ -1,4 +1,4 @@
-CREATE DATABASE holberton CHARACTER SET utf8;
+CREATE DATABASE holberton;
 USE holberton;
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
@@ -2687,7 +2687,7 @@ INSERT INTO `metal_bands` (`band_name`, `fans`, `formed`, `id`, `origin`, `split
 ('The Resistance', '10', '2011', '2710', 'Sweden', '2011', 'Death'),
 ('Twilight', '10', '2004', '2711', 'USA', '2004', 'Black'),
 ('Valient Thorr', '10', '2000', '2712', 'USA', NULL, 'Heavy'),
-('Waldgefl�ster', '10', '2005', '2713', 'Germany', '2005', 'Black'),
+('Waldgefl ster', '10', '2005', '2713', 'Germany', '2005', 'Black'),
 ('Waning', '10', '2007', '2714', 'Sweden', '2016', 'Progressive black'),
 ('Wind Rose', '10', '2009', '2715', 'Italy', '2009', 'Progressive,Power'),
 ('Within Y', '10', '2002', '2716', 'Sweden', NULL, 'Melodic death'),
